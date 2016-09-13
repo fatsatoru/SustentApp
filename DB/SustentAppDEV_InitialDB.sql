@@ -1,0 +1,4 @@
+CREATE USER SustentAppDEV IDENTIFIED BY wearegreen;
+
+GRANT DBA TO SustentAppDEV;
+
